@@ -97,4 +97,5 @@ body {
 
 .product-card img {
     width: 100%;
-    border
+    border-radius: 5px;
+}
